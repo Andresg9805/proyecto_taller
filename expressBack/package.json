@@ -1,0 +1,19 @@
+{
+  "name": "expressback",
+  "version": "1.0.0",
+  "description": "backProyecto",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon ."
+  },
+  "author": "losMejores",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.6"
+  }
+}
